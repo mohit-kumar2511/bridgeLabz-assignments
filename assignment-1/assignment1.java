@@ -1,4 +1,4 @@
-import java.util.Scanner;
+/*import java.util.Scanner;
 
 public class assignment1 {
     public static void main(String[] args) {
@@ -94,4 +94,4 @@ public class assignment1 {
         System.out.println(kilometers + " kilometers = " + miles + " miles");
         sc.close();
     }
-}
+}*/
