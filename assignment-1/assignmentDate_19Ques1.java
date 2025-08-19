@@ -16,5 +16,4 @@ public class assignmentDate_19Ques1 {
         System.out.println(c1.model + " - " + c1.year);
         System.out.println(c2.model + " - " + c2.year);
     }
-    
 }
