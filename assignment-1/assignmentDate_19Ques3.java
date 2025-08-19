@@ -1,6 +1,6 @@
 class Demo {
     void test() {
-        int x = 10; // local variable
+        int x = 10; 
         System.out.println("Inside method: " + x);
     }
 }
