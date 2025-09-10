@@ -11,7 +11,7 @@ public class BankAccount {
        totalAccounts++;   
    }
    public static void getTotalAccounts() {
-       System.out.println("Total number of accounts: " + totalAccounts);
+       System.out.println("Total number of accounts: " + totalAccounts); 
    }
    public void displayAccountDetails() {
        if (this instanceof BankAccount) {
@@ -67,3 +67,4 @@ public class BankAccount {
 
     }
 }
+
